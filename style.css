@@ -61,3 +61,8 @@ body{
     height: 60px;
 }
 
+.rating.r1.r2.r3.r4.r5{
+    border: 1px solid black;
+    flex-direction: row;
+}
+
