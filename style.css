@@ -28,14 +28,16 @@
 .container{
     display: flex;
     flex-direction: column;
-    align-items: center;
-    justify-content: center;
+
     background-color: var(--DarkBlue);   
 }
 
-.container .img{
+.container .image{
     border: 3px solid black;
-    
+    padding: 5px;
+    border-radius: 50px;
+    background-color: var(--MediumGrey);
+
 }
 
 body{
