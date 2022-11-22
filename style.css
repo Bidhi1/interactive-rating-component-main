@@ -27,6 +27,7 @@
 
 .container{
     display: flex;
+    padding: 19px;
     flex-direction: column;
     height: 80vh;
     background-color: var(--DarkBlue);   
@@ -52,4 +53,6 @@ body{
 .container .heading h1{
     color: white;
 }
+
+.container .
 
