@@ -76,3 +76,40 @@ body{
     padding-top: 5px;
     background-color:var(--MediumGrey);
 }
+
+.r2{
+    border: 1px solid black;
+    width: 30px;
+    height: 30px;
+    border-radius: 50px;
+    text-align: center;
+    padding-top: 5px;
+    background-color: var(--MediumGrey);
+}
+.r3{
+    border: 1px solid black;
+    width: 30px;
+    height: 30px;
+    border-radius: 50px;
+    text-align: center;
+    padding-top: 5px;
+    background-color: var(--MediumGrey);
+}
+.r4{
+    border: 1px solid black;
+    width: 30px;
+    height: 30px;
+    border-radius: 50px;
+    text-align: center;
+    padding-top: 5px;
+    background-color: var(--MediumGrey);
+}
+.r5{
+    border: 1px solid black;
+    width: 30px;
+    height: 30px;
+    border-radius: 50px;
+    text-align: center;
+    padding-top: 5px;
+    background-color: var(--MediumGrey);
+}
